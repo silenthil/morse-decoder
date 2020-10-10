@@ -306,4 +306,5 @@ describe("Hard (waht's going on)", function() {
         const result = "ed3ca775829b4b8c0e59620017bf2596b27d0c5cd3de8eac0a145c4f25b31a63e2ebf340c4335a826c443ecea6069f50a836fdc35cc6c2a94cdf5da0fb3b6acb";
         expect(decode(expr)).to.equal(result);
     });
+    
 })
